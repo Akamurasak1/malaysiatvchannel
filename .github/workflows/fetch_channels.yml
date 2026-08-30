@@ -1,0 +1,39 @@
+name: Fetch Astro Channels Data
+
+on:
+  workflow_dispatch: # Allows you to run this workflow manually anytime
+  schedule:
+    - cron: '0 0 * * *' # Automatically runs every day at 00:00 UTC
+
+jobs:
+  update-channels:
+    runs-on: ubuntu-latest
+
+    # Grant write permissions so the workflow can save the JSON back to the repository
+    permissions:
+      contents: write
+
+    steps:
+      # Step A: Download your repository code onto the runner machine
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step B: Fetch the API, extract fields using jq, and save to channels.json
+      - name: Fetch and Transform Data with jq
+        run: |
+          curl -s "https://contenthub-api.eco.astro.com.my/api/v2/search-linear?channelGuide=true&platform=acm&channelOrderBy=stbNumber,asc" | jq '[.response.channels.data[] | {channel_name: .title, channel_number: .stbNumber}]' > channels.json
+
+      # Step C: Check if channels.json changed, and commit it to your repository
+      - name: Commit and Push Updated JSON
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add channels.json
+          
+          # Only commit if there are actual changes
+          if git diff --staged --quiet; then
+            echo "No changes detected in channels.json"
+          else
+            git commit -m "Automated update: Refreshed channels.json"
+            git push
+          fi
