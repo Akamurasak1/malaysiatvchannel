@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '0 0 * * *' # Automatically runs every day at 00:00 UTC
 
+# Opt into forcing actions onto Node 24 cleanly across the job
+env:
+  ACTIONS_RUNNER_FORCE_ACTIONS_NODE24: "true"
+
 jobs:
   update-channels:
     runs-on: ubuntu-latest
@@ -21,7 +25,7 @@ jobs:
       # Step B: Fetch the API, extract fields using jq, and save to channels.json
       - name: Fetch and Transform Data with jq
         run: |
-          curl -s "https://contenthub-api.eco.astro.com.my/api/v2/search-linear?channelGuide=true&platform=acm&channelOrderBy=stbNumber,asc" | jq '[.response.channels.data[] | {channel_name: .title, channel_number: .stbNumber}]' > channels.json
+          curl -s "https://contenthub-api.eco.astro.com.my/api/v2/search-linear?channelGuide=true&platform=acm&channelOrderBy=stbNumber,asc" | jq '[.response.channels.data[] | {channel_name: .title, channel_number: .stbNumber, category: .category}]' > astro_channels.json
 
       # Step C: Check if channels.json changed, and commit it to your repository
       - name: Commit and Push Updated JSON
