@@ -1,0 +1,654 @@
+[
+  {
+    "channel_name": "Astro30",
+    "channel_number": "100"
+  },
+  {
+    "channel_name": "TV1 HD",
+    "channel_number": "101"
+  },
+  {
+    "channel_name": "TV2 HD",
+    "channel_number": "102"
+  },
+  {
+    "channel_name": "TV3",
+    "channel_number": "103"
+  },
+  {
+    "channel_name": "Astro Ria",
+    "channel_number": "104"
+  },
+  {
+    "channel_name": "Astro Prima",
+    "channel_number": "105"
+  },
+  {
+    "channel_name": "Astro Oasis",
+    "channel_number": "106"
+  },
+  {
+    "channel_name": "Astro Citra",
+    "channel_number": "108"
+  },
+  {
+    "channel_name": "Astro Rania",
+    "channel_number": "112"
+  },
+  {
+    "channel_name": "Astro Aura",
+    "channel_number": "113"
+  },
+  {
+    "channel_name": "Al-Hijrah",
+    "channel_number": "114"
+  },
+  {
+    "channel_name": "Colors Hindi HD",
+    "channel_number": "116"
+  },
+  {
+    "channel_name": "Z Cinema HD",
+    "channel_number": "117"
+  },
+  {
+    "channel_name": "Aniplus",
+    "channel_number": "120"
+  },
+  {
+    "channel_name": "TV Sarawak",
+    "channel_number": "122"
+  },
+  {
+    "channel_name": "TV Okey HD",
+    "channel_number": "146"
+  },
+  {
+    "channel_name": "NTV7",
+    "channel_number": "147"
+  },
+  {
+    "channel_name": "8TV",
+    "channel_number": "148"
+  },
+  {
+    "channel_name": "TV9",
+    "channel_number": "149"
+  },
+  {
+    "channel_name": "Astro Vaanavil",
+    "channel_number": "201"
+  },
+  {
+    "channel_name": "Astro Vinmeen",
+    "channel_number": "202"
+  },
+  {
+    "channel_name": "Astro Vellithirai HD",
+    "channel_number": "203"
+  },
+  {
+    "channel_name": "SUN TV HD",
+    "channel_number": "211"
+  },
+  {
+    "channel_name": "Sun Music HD",
+    "channel_number": "212"
+  },
+  {
+    "channel_name": "Adithya",
+    "channel_number": "214"
+  },
+  {
+    "channel_name": "Sun News",
+    "channel_number": "215"
+  },
+  {
+    "channel_name": "KTV",
+    "channel_number": "216"
+  },
+  {
+    "channel_name": "Sun Life",
+    "channel_number": "217"
+  },
+  {
+    "channel_name": "Star Vijay HD",
+    "channel_number": "221"
+  },
+  {
+    "channel_name": "Colors Tamil HD",
+    "channel_number": "222"
+  },
+  {
+    "channel_name": "Z Tamil HD",
+    "channel_number": "223"
+  },
+  {
+    "channel_name": "Astro Thangathirai",
+    "channel_number": "241"
+  },
+  {
+    "channel_name": "iQIYI HD",
+    "channel_number": "300"
+  },
+  {
+    "channel_name": "TVB Classic HD",
+    "channel_number": "305"
+  },
+  {
+    "channel_name": "Astro AEC",
+    "channel_number": "306"
+  },
+  {
+    "channel_name": "Astro QJ",
+    "channel_number": "308"
+  },
+  {
+    "channel_name": "Celestial Movies HD",
+    "channel_number": "309"
+  },
+  {
+    "channel_name": "TVB Jade",
+    "channel_number": "310"
+  },
+  {
+    "channel_name": "Astro AOD",
+    "channel_number": "311"
+  },
+  {
+    "channel_name": "CTI Asia HD",
+    "channel_number": "316"
+  },
+  {
+    "channel_name": "TVB Entertainment News HD",
+    "channel_number": "317"
+  },
+  {
+    "channel_name": "TVB Xing He HD",
+    "channel_number": "319"
+  },
+  {
+    "channel_name": "TVBS Asia HD",
+    "channel_number": "320"
+  },
+  {
+    "channel_name": "Celestial Classic Movies",
+    "channel_number": "321"
+  },
+  {
+    "channel_name": "Phoenix Chinese Channel HD",
+    "channel_number": "325"
+  },
+  {
+    "channel_name": "Phoenix Info News HD",
+    "channel_number": "326"
+  },
+  {
+    "channel_name": "Astro Hua Hee Dai",
+    "channel_number": "333"
+  },
+  {
+    "channel_name": "CCTV4 HD",
+    "channel_number": "335"
+  },
+  {
+    "channel_name": "KBS World HD",
+    "channel_number": "392"
+  },
+  {
+    "channel_name": "Astro Daebak",
+    "channel_number": "393"
+  },
+  {
+    "channel_name": "tvN HD",
+    "channel_number": "395"
+  },
+  {
+    "channel_name": "K-Plus HD",
+    "channel_number": "396"
+  },
+  {
+    "channel_name": "NHK World Premium",
+    "channel_number": "398"
+  },
+  {
+    "channel_name": "HITS MOVIES HD",
+    "channel_number": "401"
+  },
+  {
+    "channel_name": "Astro Boo",
+    "channel_number": "404"
+  },
+  {
+    "channel_name": "Astro Showtime",
+    "channel_number": "411"
+  },
+  {
+    "channel_name": "Astro FAM Time",
+    "channel_number": "412"
+  },
+  {
+    "channel_name": "Astro Showcase",
+    "channel_number": "413"
+  },
+  {
+    "channel_name": "Rock Action",
+    "channel_number": "414"
+  },
+  {
+    "channel_name": "Rock X Stream",
+    "channel_number": "415"
+  },
+  {
+    "channel_name": "tvN Movies HD",
+    "channel_number": "416"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "472"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "473"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "474"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "475"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "476"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "477"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "478"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "479"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "482"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "483"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "484"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "485"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "486"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "487"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "488"
+  },
+  {
+    "channel_name": "Astro First HD",
+    "channel_number": "489"
+  },
+  {
+    "channel_name": "Astro Awani HD",
+    "channel_number": "501"
+  },
+  {
+    "channel_name": "Bernama TV",
+    "channel_number": "502"
+  },
+  {
+    "channel_name": "CGTN HD",
+    "channel_number": "503"
+  },
+  {
+    "channel_name": "Berita RTM",
+    "channel_number": "505"
+  },
+  {
+    "channel_name": "CNN HD",
+    "channel_number": "511"
+  },
+  {
+    "channel_name": "BBC News HD",
+    "channel_number": "512"
+  },
+  {
+    "channel_name": "Al Jazeera English HD",
+    "channel_number": "513"
+  },
+  {
+    "channel_name": "CNA HD",
+    "channel_number": "515"
+  },
+  {
+    "channel_name": "CNBC Asia HD",
+    "channel_number": "516"
+  },
+  {
+    "channel_name": "Bloomberg TV HD",
+    "channel_number": "517"
+  },
+  {
+    "channel_name": "ABC Australia HD",
+    "channel_number": "518"
+  },
+  {
+    "channel_name": "DW English",
+    "channel_number": "521"
+  },
+  {
+    "channel_name": "France24",
+    "channel_number": "522"
+  },
+  {
+    "channel_name": "Love Nature 4K",
+    "channel_number": "549"
+  },
+  {
+    "channel_name": "Love Nature",
+    "channel_number": "550"
+  },
+  {
+    "channel_name": "Discovery Channel HD",
+    "channel_number": "552"
+  },
+  {
+    "channel_name": "Discovery Asia HD",
+    "channel_number": "553"
+  },
+  {
+    "channel_name": "BBC Earth",
+    "channel_number": "554"
+  },
+  {
+    "channel_name": "History HD",
+    "channel_number": "555"
+  },
+  {
+    "channel_name": "CGTN Documentary",
+    "channel_number": "556"
+  },
+  {
+    "channel_name": "Astro Tutor TV",
+    "channel_number": "603"
+  },
+  {
+    "channel_name": "Astro Ceria",
+    "channel_number": "611"
+  },
+  {
+    "channel_name": "Cartoon Network HD",
+    "channel_number": "615"
+  },
+  {
+    "channel_name": "Nickelodeon HD",
+    "channel_number": "616"
+  },
+  {
+    "channel_name": "Nick Jr.",
+    "channel_number": "617"
+  },
+  {
+    "channel_name": "Moonbug",
+    "channel_number": "618"
+  },
+  {
+    "channel_name": "Blippi & Friends",
+    "channel_number": "619"
+  },
+  {
+    "channel_name": "AXN HD",
+    "channel_number": "701"
+  },
+  {
+    "channel_name": "HITS NOW",
+    "channel_number": "702"
+  },
+  {
+    "channel_name": "Lifetime HD",
+    "channel_number": "703"
+  },
+  {
+    "channel_name": "HITS HD",
+    "channel_number": "706"
+  },
+  {
+    "channel_name": "TLC HD",
+    "channel_number": "707"
+  },
+  {
+    "channel_name": "Asian Food Network HD",
+    "channel_number": "709"
+  },
+  {
+    "channel_name": "Crime & Investigation HD",
+    "channel_number": "714"
+  },
+  {
+    "channel_name": "HGTV HD",
+    "channel_number": "715"
+  },
+  {
+    "channel_name": "Astro Arena",
+    "channel_number": "801"
+  },
+  {
+    "channel_name": "Stadium Astro",
+    "channel_number": "802"
+  },
+  {
+    "channel_name": "Arena Bola",
+    "channel_number": "803"
+  },
+  {
+    "channel_name": "Arena Bola 2",
+    "channel_number": "804"
+  },
+  {
+    "channel_name": "Astro Sports UHD 805",
+    "channel_number": "805"
+  },
+  {
+    "channel_name": "Sukan+",
+    "channel_number": "806"
+  },
+  {
+    "channel_name": "Astro Premier League 4",
+    "channel_number": "808"
+  },
+  {
+    "channel_name": "Astro Premier League 5",
+    "channel_number": "809"
+  },
+  {
+    "channel_name": "Astro Grandstand",
+    "channel_number": "810"
+  },
+  {
+    "channel_name": "Astro Premier League",
+    "channel_number": "811"
+  },
+  {
+    "channel_name": "Astro Premier League 2",
+    "channel_number": "812"
+  },
+  {
+    "channel_name": "Astro Premier League 3",
+    "channel_number": "813"
+  },
+  {
+    "channel_name": "Astro Football",
+    "channel_number": "814"
+  },
+  {
+    "channel_name": "Astro Badminton",
+    "channel_number": "815"
+  },
+  {
+    "channel_name": "Astro Badminton 2",
+    "channel_number": "816"
+  },
+  {
+    "channel_name": "Astro Sports Plus",
+    "channel_number": "817"
+  },
+  {
+    "channel_name": "Astro Sports Plus 2",
+    "channel_number": "818"
+  },
+  {
+    "channel_name": "Astro Tennis",
+    "channel_number": "819"
+  },
+  {
+    "channel_name": "beIN SPORTS 1",
+    "channel_number": "820"
+  },
+  {
+    "channel_name": "beIN SPORTS 2",
+    "channel_number": "821"
+  },
+  {
+    "channel_name": "beIN SPORTS 3",
+    "channel_number": "822"
+  },
+  {
+    "channel_name": "W-Sport",
+    "channel_number": "826"
+  },
+  {
+    "channel_name": "Astro Golf",
+    "channel_number": "831"
+  },
+  {
+    "channel_name": "CricBuzz",
+    "channel_number": "832"
+  },
+  {
+    "channel_name": "Premier Sports",
+    "channel_number": "833"
+  },
+  {
+    "channel_name": "HITZ FM",
+    "channel_number": "852"
+  },
+  {
+    "channel_name": "MY FM",
+    "channel_number": "853"
+  },
+  {
+    "channel_name": "LITE FM",
+    "channel_number": "854"
+  },
+  {
+    "channel_name": "MIX FM",
+    "channel_number": "855"
+  },
+  {
+    "channel_name": "ERA FM",
+    "channel_number": "856"
+  },
+  {
+    "channel_name": "SINAR FM",
+    "channel_number": "857"
+  },
+  {
+    "channel_name": "MELODY FM",
+    "channel_number": "858"
+  },
+  {
+    "channel_name": "THR RAAGA",
+    "channel_number": "859"
+  },
+  {
+    "channel_name": "CLASSIC ROCK",
+    "channel_number": "860"
+  },
+  {
+    "channel_name": "GOLD",
+    "channel_number": "861"
+  },
+  {
+    "channel_name": "OPUS",
+    "channel_number": "862"
+  },
+  {
+    "channel_name": "THR GEGAR",
+    "channel_number": "863"
+  },
+  {
+    "channel_name": "INDIA BEAT",
+    "channel_number": "864"
+  },
+  {
+    "channel_name": "JAZZ",
+    "channel_number": "865"
+  },
+  {
+    "channel_name": "OSAI",
+    "channel_number": "866"
+  },
+  {
+    "channel_name": "BAYU",
+    "channel_number": "867"
+  },
+  {
+    "channel_name": "KENYALANG",
+    "channel_number": "868"
+  },
+  {
+    "channel_name": "NAS FM",
+    "channel_number": "869"
+  },
+  {
+    "channel_name": "V FM",
+    "channel_number": "870"
+  },
+  {
+    "channel_name": "WAI FM",
+    "channel_number": "871"
+  },
+  {
+    "channel_name": "TRAXX FM",
+    "channel_number": "872"
+  },
+  {
+    "channel_name": "MINNAL FM",
+    "channel_number": "873"
+  },
+  {
+    "channel_name": "AI FM",
+    "channel_number": "874"
+  },
+  {
+    "channel_name": "ASYIK FM",
+    "channel_number": "875"
+  },
+  {
+    "channel_name": "ZAYAN",
+    "channel_number": "876"
+  },
+  {
+    "channel_name": "GOXUAN",
+    "channel_number": "877"
+  }
+]
