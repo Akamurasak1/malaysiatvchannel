@@ -29,7 +29,7 @@ jobs:
           curl -s "https://contenthub-api.eco.astro.com.my/api/v2/search-linear?channelGuide=true&platform=acm&channelOrderBy=stbNumber,asc" | jq '[.response.channels.data[] | {channel_name: .title, channel_number: .stbNumber, category: .category}]' > astro_channels.json
 
           # Fetch Unifi
-          curl -s "https://unifi.com.my/tv/jsonapi/node/channels_list_item" | jq '[.data[] | {provider: "Unifi", channel_name: .attributes.title, channel_number: .attributes.field_channel_number}]' > unifitv_channels.json
+          curl -s "https://unifi.com.my/tv/jsonapi/node/channels_list_item?page[limit]=500" | jq '[.data[] | {provider: "Unifi", channel_name: .attributes.title, channel_number: .attributes.field_channel_number}]' > unifitv_channels.json
         
       # Step C: Check if channels.json changed, and commit it to your repository
       - name: Commit and Push Updated JSON
