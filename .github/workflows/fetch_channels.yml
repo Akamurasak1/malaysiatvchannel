@@ -5,6 +5,7 @@ on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at 00:00 UTC
 
+# Silence Node 20 deprecation notices by opting into Node 24 execution
 env:
   ACTIONS_RUNNER_FORCE_ACTIONS_NODE24: "true"
 
