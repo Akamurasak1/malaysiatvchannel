@@ -1,817 +1,1795 @@
 [
   {
     "channel_name": "Astro30",
-    "channel_number": "100",
-    "category": "Variety Entertainment"
+    "channel_number": 100,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "others"
+    ]
   },
   {
     "channel_name": "TV1 HD",
-    "channel_number": "101",
-    "category": "Variety Entertainment"
+    "channel_number": 101,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "TV2 HD",
-    "channel_number": "102",
-    "category": "Variety Entertainment"
+    "channel_number": 102,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "TV3",
-    "channel_number": "103",
-    "category": "Variety Entertainment"
+    "channel_number": 103,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "others"
+    ]
   },
   {
     "channel_name": "Astro Ria",
-    "channel_number": "104",
-    "category": "Variety Entertainment"
+    "channel_number": 104,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Astro Prima",
-    "channel_number": "105",
-    "category": "Variety Entertainment"
+    "channel_number": 105,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Astro Oasis",
-    "channel_number": "106",
-    "category": "Variety Entertainment"
+    "channel_number": 106,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Astro Citra",
-    "channel_number": "108",
-    "category": "Movies"
+    "channel_number": 108,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Astro Rania",
-    "channel_number": "112",
-    "category": "Variety Entertainment"
+    "channel_number": 112,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Astro Aura",
-    "channel_number": "113",
-    "category": "Variety Entertainment"
+    "channel_number": 113,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Al-Hijrah",
-    "channel_number": "114",
-    "category": "Special Interest"
+    "channel_number": 114,
+    "category": "Special Interest",
+    "genre": [
+      "others"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Colors Hindi HD",
-    "channel_number": "116",
-    "category": "Variety Entertainment"
+    "channel_number": 116,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Z Cinema HD",
-    "channel_number": "117",
-    "category": "Variety Entertainment"
+    "channel_number": 117,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Aniplus",
-    "channel_number": "120",
-    "category": "Variety Entertainment"
+    "channel_number": 120,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "koreanandjapanese"
+    ]
   },
   {
     "channel_name": "TV Sarawak",
-    "channel_number": "122",
-    "category": "Variety Entertainment"
+    "channel_number": 122,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "TV Okey HD",
-    "channel_number": "146",
-    "category": "Variety Entertainment"
+    "channel_number": 146,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "NTV7",
-    "channel_number": "147",
-    "category": "Variety Entertainment"
+    "channel_number": 147,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "others"
+    ]
   },
   {
     "channel_name": "8TV",
-    "channel_number": "148",
-    "category": "Variety Entertainment"
+    "channel_number": 148,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "TV9",
-    "channel_number": "149",
-    "category": "Variety Entertainment"
+    "channel_number": 149,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "others"
+    ]
   },
   {
     "channel_name": "Astro Vaanavil",
-    "channel_number": "201",
-    "category": "Variety Entertainment"
+    "channel_number": 201,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Astro Vinmeen",
-    "channel_number": "202",
-    "category": "Variety Entertainment"
+    "channel_number": 202,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Astro Vellithirai HD",
-    "channel_number": "203",
-    "category": "Movies"
+    "channel_number": 203,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "SUN TV HD",
-    "channel_number": "211",
-    "category": "Variety Entertainment"
+    "channel_number": 211,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Sun Music HD",
-    "channel_number": "212",
-    "category": "Music"
+    "channel_number": 212,
+    "category": "Music",
+    "genre": [
+      "music"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Adithya",
-    "channel_number": "214",
-    "category": "Special Interest"
+    "channel_number": 214,
+    "category": "Special Interest",
+    "genre": [
+      "others"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Sun News",
-    "channel_number": "215",
-    "category": "News"
+    "channel_number": 215,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "KTV",
-    "channel_number": "216",
-    "category": "Movies"
+    "channel_number": 216,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Sun Life",
-    "channel_number": "217",
-    "category": "Movies"
+    "channel_number": 217,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Star Vijay HD",
-    "channel_number": "221",
-    "category": "Variety Entertainment"
+    "channel_number": 221,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Colors Tamil HD",
-    "channel_number": "222",
-    "category": "Variety Entertainment"
+    "channel_number": 222,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Z Tamil HD",
-    "channel_number": "223",
-    "category": "Variety Entertainment"
+    "channel_number": 223,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "Astro Thangathirai",
-    "channel_number": "241",
-    "category": "Movies"
+    "channel_number": 241,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "iQIYI HD",
-    "channel_number": "300",
-    "category": "Variety Entertainment"
+    "channel_number": 300,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "TVB Classic HD",
-    "channel_number": "305",
-    "category": "Variety Entertainment"
+    "channel_number": 305,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "Astro AEC",
-    "channel_number": "306",
-    "category": "Variety Entertainment"
+    "channel_number": 306,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "Astro QJ",
-    "channel_number": "308",
-    "category": "Variety Entertainment"
+    "channel_number": 308,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "Celestial Movies HD",
-    "channel_number": "309",
-    "category": "Movies"
+    "channel_number": 309,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "TVB Jade",
-    "channel_number": "310",
-    "category": "Variety Entertainment"
+    "channel_number": 310,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "Astro AOD",
-    "channel_number": "311",
-    "category": "Movies"
+    "channel_number": 311,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "CTI Asia HD",
-    "channel_number": "316",
-    "category": "Variety Entertainment"
+    "channel_number": 316,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "TVB Entertainment News HD",
-    "channel_number": "317",
-    "category": "News"
+    "channel_number": 317,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "TVB Xing He HD",
-    "channel_number": "319",
-    "category": "Variety Entertainment"
+    "channel_number": 319,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "TVBS Asia HD",
-    "channel_number": "320",
-    "category": "Variety Entertainment"
+    "channel_number": 320,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "Celestial Classic Movies",
-    "channel_number": "321",
-    "category": "Movies"
+    "channel_number": 321,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "Phoenix Chinese Channel HD",
-    "channel_number": "325",
-    "category": "Variety Entertainment"
+    "channel_number": 325,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "Phoenix Info News HD",
-    "channel_number": "326",
-    "category": "News"
+    "channel_number": 326,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "Astro Hua Hee Dai",
-    "channel_number": "333",
-    "category": "Variety Entertainment"
+    "channel_number": 333,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "CCTV4 HD",
-    "channel_number": "335",
-    "category": "News"
+    "channel_number": 335,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "KBS World HD",
-    "channel_number": "392",
-    "category": "Special Interest"
+    "channel_number": 392,
+    "category": "Special Interest",
+    "genre": [
+      "others"
+    ],
+    "language": [
+      "koreanandjapanese"
+    ]
   },
   {
     "channel_name": "Astro Daebak",
-    "channel_number": "393",
-    "category": "Variety Entertainment"
+    "channel_number": 393,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "koreanandjapanese"
+    ]
   },
   {
     "channel_name": "tvN HD",
-    "channel_number": "395",
-    "category": "Variety Entertainment"
+    "channel_number": 395,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "koreanandjapanese"
+    ]
   },
   {
     "channel_name": "K-Plus HD",
-    "channel_number": "396",
-    "category": "Variety Entertainment"
+    "channel_number": 396,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "koreanandjapanese"
+    ]
   },
   {
     "channel_name": "NHK World Premium",
-    "channel_number": "398",
-    "category": "Special Interest"
+    "channel_number": 398,
+    "category": "Special Interest",
+    "genre": [
+      "others"
+    ],
+    "language": [
+      "koreanandjapanese"
+    ]
   },
   {
     "channel_name": "HITS MOVIES HD",
-    "channel_number": "401",
-    "category": "Variety Entertainment"
+    "channel_number": 401,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Boo",
-    "channel_number": "404",
-    "category": "Movies"
+    "channel_number": 404,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "others"
+    ]
   },
   {
     "channel_name": "Astro Showtime",
-    "channel_number": "411",
-    "category": "Variety Entertainment"
+    "channel_number": 411,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "others"
+    ]
   },
   {
     "channel_name": "Astro FAM Time",
-    "channel_number": "412",
-    "category": "Variety Entertainment"
+    "channel_number": 412,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "others"
+    ]
   },
   {
     "channel_name": "Astro Showcase",
-    "channel_number": "413",
-    "category": "Variety Entertainment"
+    "channel_number": 413,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Rock Action",
-    "channel_number": "414",
-    "category": "Variety Entertainment"
+    "channel_number": 414,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "others"
+    ]
   },
   {
     "channel_name": "Rock X Stream",
-    "channel_number": "415",
-    "category": "Variety Entertainment"
+    "channel_number": 415,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "others"
+    ]
   },
   {
     "channel_name": "tvN Movies HD",
-    "channel_number": "416",
-    "category": "Movies"
+    "channel_number": 416,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "koreanandjapanese"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "472",
-    "category": "Movies"
+    "channel_number": 472,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "473",
-    "category": "Movies"
+    "channel_number": 473,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "474",
-    "category": "Movies"
+    "channel_number": 474,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "475",
-    "category": "Movies"
+    "channel_number": 475,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "476",
-    "category": "Movies"
+    "channel_number": 476,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "477",
-    "category": "Movies"
+    "channel_number": 477,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "478",
-    "category": "Movies"
+    "channel_number": 478,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "479",
-    "category": "Movies"
+    "channel_number": 479,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "482",
-    "category": "Movies"
+    "channel_number": 482,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "483",
-    "category": "Movies"
+    "channel_number": 483,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "484",
-    "category": "Movies"
+    "channel_number": 484,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "485",
-    "category": "Movies"
+    "channel_number": 485,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "486",
-    "category": "Movies"
+    "channel_number": 486,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "487",
-    "category": "Movies"
+    "channel_number": 487,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "488",
-    "category": "Movies"
+    "channel_number": 488,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro First HD",
-    "channel_number": "489",
-    "category": "Movies"
+    "channel_number": 489,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Awani HD",
-    "channel_number": "501",
-    "category": "News"
+    "channel_number": 501,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Bernama TV",
-    "channel_number": "502",
-    "category": "News"
+    "channel_number": 502,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "CGTN HD",
-    "channel_number": "503",
-    "category": "News"
+    "channel_number": 503,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Berita RTM",
-    "channel_number": "505",
-    "category": "News"
+    "channel_number": 505,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "CNN HD",
-    "channel_number": "511",
-    "category": "News"
+    "channel_number": 511,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "BBC News HD",
-    "channel_number": "512",
-    "category": "News"
+    "channel_number": 512,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Al Jazeera English HD",
-    "channel_number": "513",
-    "category": "News"
+    "channel_number": 513,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "CNA HD",
-    "channel_number": "515",
-    "category": "News"
+    "channel_number": 515,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "CNBC Asia HD",
-    "channel_number": "516",
-    "category": "News"
+    "channel_number": 516,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Bloomberg TV HD",
-    "channel_number": "517",
-    "category": "News"
+    "channel_number": 517,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "ABC Australia HD",
-    "channel_number": "518",
-    "category": "Variety Entertainment"
+    "channel_number": 518,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "DW English",
-    "channel_number": "521",
-    "category": "News"
+    "channel_number": 521,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "France24",
-    "channel_number": "522",
-    "category": "News"
+    "channel_number": 522,
+    "category": "News",
+    "genre": [
+      "news"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Love Nature 4K",
-    "channel_number": "549",
-    "category": "Variety Entertainment"
+    "channel_number": 549,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Love Nature",
-    "channel_number": "550",
-    "category": "Variety Entertainment"
+    "channel_number": 550,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Discovery Channel HD",
-    "channel_number": "552",
-    "category": "Learning"
+    "channel_number": 552,
+    "category": "Learning",
+    "genre": [
+      "others"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Discovery Asia HD",
-    "channel_number": "553",
-    "category": "Learning"
+    "channel_number": 553,
+    "category": "Learning",
+    "genre": [
+      "others"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "BBC Earth",
-    "channel_number": "554",
-    "category": "Variety Entertainment"
+    "channel_number": 554,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "History HD",
-    "channel_number": "555",
-    "category": "Learning"
+    "channel_number": 555,
+    "category": "Learning",
+    "genre": [
+      "others"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "CGTN Documentary",
-    "channel_number": "556",
-    "category": "Variety Entertainment"
+    "channel_number": 556,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Tutor TV",
-    "channel_number": "603",
-    "category": "Learning"
+    "channel_number": 603,
+    "category": "Learning",
+    "genre": [
+      "others"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Astro Ceria",
-    "channel_number": "611",
-    "category": "Kids"
+    "channel_number": 611,
+    "category": "Kids",
+    "genre": [
+      "kids"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Cartoon Network HD",
-    "channel_number": "615",
-    "category": "Kids"
+    "channel_number": 615,
+    "category": "Kids",
+    "genre": [
+      "kids"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Nickelodeon HD",
-    "channel_number": "616",
-    "category": "Kids"
+    "channel_number": 616,
+    "category": "Kids",
+    "genre": [
+      "kids"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Nick Jr.",
-    "channel_number": "617",
-    "category": "Kids"
+    "channel_number": 617,
+    "category": "Kids",
+    "genre": [
+      "kids"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Moonbug",
-    "channel_number": "618",
-    "category": "Variety Entertainment"
+    "channel_number": 618,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Blippi & Friends",
-    "channel_number": "619",
-    "category": "Kids"
+    "channel_number": 619,
+    "category": "Kids",
+    "genre": [
+      "kids"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "AXN HD",
-    "channel_number": "701",
-    "category": "Variety Entertainment"
+    "channel_number": 701,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "HITS NOW",
-    "channel_number": "702",
-    "category": "Variety Entertainment"
+    "channel_number": 702,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Lifetime HD",
-    "channel_number": "703",
-    "category": "Variety Entertainment"
+    "channel_number": 703,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "HITS HD",
-    "channel_number": "706",
-    "category": "Variety Entertainment"
+    "channel_number": 706,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "TLC HD",
-    "channel_number": "707",
-    "category": "Lifestyle"
+    "channel_number": 707,
+    "category": "Lifestyle",
+    "genre": [
+      "lifestyle"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Asian Food Network HD",
-    "channel_number": "709",
-    "category": "Lifestyle"
+    "channel_number": 709,
+    "category": "Lifestyle",
+    "genre": [
+      "lifestyle"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Crime & Investigation HD",
-    "channel_number": "714",
-    "category": "Special Interest"
+    "channel_number": 714,
+    "category": "Special Interest",
+    "genre": [
+      "others"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "HGTV HD",
-    "channel_number": "715",
-    "category": "Lifestyle"
+    "channel_number": 715,
+    "category": "Lifestyle",
+    "genre": [
+      "lifestyle"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Arena",
-    "channel_number": "801",
-    "category": "Sports"
+    "channel_number": 801,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Stadium Astro",
-    "channel_number": "802",
-    "category": "Sports"
+    "channel_number": 802,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Arena Bola",
-    "channel_number": "803",
-    "category": "Sports"
+    "channel_number": 803,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Arena Bola 2",
-    "channel_number": "804",
-    "category": "Sports"
+    "channel_number": 804,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Sports UHD 805",
-    "channel_number": "805",
-    "category": "Sports"
+    "channel_number": 805,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Sukan+",
-    "channel_number": "806",
-    "category": "Sports"
+    "channel_number": 806,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "Astro Premier League 4",
-    "channel_number": "808",
-    "category": "Sports"
+    "channel_number": 808,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Premier League 5",
-    "channel_number": "809",
-    "category": "Sports"
+    "channel_number": 809,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Grandstand",
-    "channel_number": "810",
-    "category": "Sports"
+    "channel_number": 810,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Premier League",
-    "channel_number": "811",
-    "category": "Sports"
+    "channel_number": 811,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Premier League 2",
-    "channel_number": "812",
-    "category": "Sports"
+    "channel_number": 812,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Premier League 3",
-    "channel_number": "813",
-    "category": "Sports"
+    "channel_number": 813,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Football",
-    "channel_number": "814",
-    "category": "Sports"
+    "channel_number": 814,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Badminton",
-    "channel_number": "815",
-    "category": "Sports"
+    "channel_number": 815,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Badminton 2",
-    "channel_number": "816",
-    "category": "Sports"
+    "channel_number": 816,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Sports Plus",
-    "channel_number": "817",
-    "category": "Sports"
+    "channel_number": 817,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Sports Plus 2",
-    "channel_number": "818",
-    "category": "Sports"
+    "channel_number": 818,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Tennis",
-    "channel_number": "819",
-    "category": "Sports"
+    "channel_number": 819,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "beIN SPORTS 1",
-    "channel_number": "820",
-    "category": "Sports"
+    "channel_number": 820,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "beIN SPORTS 2",
-    "channel_number": "821",
-    "category": "Sports"
+    "channel_number": 821,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "beIN SPORTS 3",
-    "channel_number": "822",
-    "category": "Sports"
+    "channel_number": 822,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "W-Sport",
-    "channel_number": "826",
-    "category": "Sports"
+    "channel_number": 826,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "Astro Golf",
-    "channel_number": "831",
-    "category": "Sports"
+    "channel_number": 831,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "CricBuzz",
-    "channel_number": "832",
-    "category": "Sports"
+    "channel_number": 832,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "others"
+    ]
   },
   {
     "channel_name": "Premier Sports",
-    "channel_number": "833",
-    "category": "Sports"
+    "channel_number": 833,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "HITZ FM",
-    "channel_number": "852",
-    "category": "Radio"
+    "channel_number": 852,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "MY FM",
-    "channel_number": "853",
-    "category": "Radio"
+    "channel_number": 853,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "LITE FM",
-    "channel_number": "854",
-    "category": "Radio"
+    "channel_number": 854,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "MIX FM",
-    "channel_number": "855",
-    "category": "Radio"
+    "channel_number": 855,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "ERA FM",
-    "channel_number": "856",
-    "category": "Radio"
+    "channel_number": 856,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "SINAR FM",
-    "channel_number": "857",
-    "category": "Radio"
+    "channel_number": 857,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "MELODY FM",
-    "channel_number": "858",
-    "category": "Radio"
+    "channel_number": 858,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "chinese"
+    ]
   },
   {
     "channel_name": "THR RAAGA",
-    "channel_number": "859",
-    "category": "Radio"
+    "channel_number": 859,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "CLASSIC ROCK",
-    "channel_number": "860",
-    "category": "Radio"
+    "channel_number": 860,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "GOLD",
-    "channel_number": "861",
-    "category": "Radio"
+    "channel_number": 861,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "OPUS",
-    "channel_number": "862",
-    "category": "Radio"
+    "channel_number": 862,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "THR GEGAR",
-    "channel_number": "863",
-    "category": "Radio"
+    "channel_number": 863,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "INDIA BEAT",
-    "channel_number": "864",
-    "category": "Radio"
+    "channel_number": 864,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "indian"
+    ]
   },
   {
     "channel_name": "JAZZ",
-    "channel_number": "865",
-    "category": "Radio"
+    "channel_number": 865,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "OSAI",
-    "channel_number": "866",
-    "category": "Radio"
+    "channel_number": 866,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "BAYU",
-    "channel_number": "867",
-    "category": "Radio"
+    "channel_number": 867,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "KENYALANG",
-    "channel_number": "868",
-    "category": "Radio"
+    "channel_number": 868,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "NAS FM",
-    "channel_number": "869",
-    "category": "Radio"
+    "channel_number": 869,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "V FM",
-    "channel_number": "870",
-    "category": "Radio"
+    "channel_number": 870,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "WAI FM",
-    "channel_number": "871",
-    "category": "Radio"
+    "channel_number": 871,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "TRAXX FM",
-    "channel_number": "872",
-    "category": "Radio"
+    "channel_number": 872,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "MINNAL FM",
-    "channel_number": "873",
-    "category": "Radio"
+    "channel_number": 873,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "AI FM",
-    "channel_number": "874",
-    "category": "Radio"
+    "channel_number": 874,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "ASYIK FM",
-    "channel_number": "875",
-    "category": "Radio"
+    "channel_number": 875,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "malay"
+    ]
   },
   {
     "channel_name": "ZAYAN",
-    "channel_number": "876",
-    "category": "Radio"
+    "channel_number": 876,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "international"
+    ]
   },
   {
     "channel_name": "GOXUAN",
-    "channel_number": "877",
-    "category": "Radio"
+    "channel_number": 877,
+    "category": "Radio",
+    "genre": [
+      "radio"
+    ],
+    "language": [
+      "international"
+    ]
   }
 ]
