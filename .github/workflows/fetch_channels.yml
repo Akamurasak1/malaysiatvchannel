@@ -1,11 +1,10 @@
-name: Fetch Astro Channels Data
+name: Fetch Channel Data
 
 on:
-  workflow_dispatch: # Allows you to run this workflow manually anytime
+  workflow_dispatch: # Allows manual trigger anytime
   schedule:
-    - cron: '0 0 * * *' # Automatically runs every day at 00:00 UTC
+    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
 
-# Opt into forcing actions onto Node 24 cleanly across the job
 env:
   ACTIONS_RUNNER_FORCE_ACTIONS_NODE24: "true"
 
@@ -13,19 +12,15 @@ jobs:
   update-channels:
     runs-on: ubuntu-latest
 
-    # Grant write permissions so the workflow can save the JSON back to the repository
     permissions:
       contents: write
 
     steps:
-      # Step A: Download your repository code onto the runner machine
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step B: Fetch the API, extract fields using jq, and save to channels.json
-      - name: Fetch and Transform Data with jq
+      - name: Fetch and Transform Astro Data
         run: |
-          # Fetch Astro
           curl -s "https://contenthub-api.eco.astro.com.my/api/v2/search-linear?channelGuide=true&platform=acm&channelOrderBy=stbNumber,asc" | jq '[
             .response.channels.data[]? | {
               channel_name: .title,
@@ -33,21 +28,31 @@ jobs:
               category: .category,
               genre: (.genreKey // []),
               language: (.languageKey // [])
-            }
+            } | select(.channel_number != null)
           ]' > astro_channels.json
-          # Fetch Unifi
-          curl -s "https://unifi.com.my/tv/jsonapi/node/channels_list_item?page[limit]=500" | jq '[.data[] | {provider: "Unifi", channel_name: .attributes.title, channel_number: .attributes.field_channel_number}]' > unifitv_channels.json
-        
-      # Step C: Check if channels.json changed, and commit it to your repository
+
+      - name: Fetch and Transform Unifi Data
+        run: |
+          curl -s "https://unifi.com.my/tv/jsonapi/node/channels_list_item?page[limit]=500" | jq '[
+            .data[]? | {
+              channel_name: .attributes.title,
+              channel_number: (
+                .attributes.field_channel_number | 
+                if type == "array" then .[0] else . end | 
+                tonumber?
+              )
+            } | select(.channel_number != null)
+          ] | sort_by(.channel_number)' > unifitv_channels.json
+
       - name: Commit and Push Updated JSON Files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage all generated JSON files (works for new files too)
+          # Force stage all .json files in the repository
           git add -A *.json
           
-          # Check staged changes
+          # Check for staged changes before committing
           if git diff --staged --quiet; then
             echo "No changes detected across provider JSON files."
           else
