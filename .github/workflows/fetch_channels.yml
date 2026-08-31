@@ -39,17 +39,18 @@ jobs:
           curl -s "https://unifi.com.my/tv/jsonapi/node/channels_list_item?page[limit]=500" | jq '[.data[] | {provider: "Unifi", channel_name: .attributes.title, channel_number: .attributes.field_channel_number}]' > unifitv_channels.json
         
       # Step C: Check if channels.json changed, and commit it to your repository
-      - name: Commit and Push Updated JSON
+      - name: Commit and Push Updated JSON Files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add astro_channels.json
-          git add unifitv_channels.json
           
-          # Only commit if there are actual changes
+          # Stage all generated JSON files (works for new files too)
+          git add -A *.json
+          
+          # Check staged changes
           if git diff --staged --quiet; then
-            echo "No changes detected"
+            echo "No changes detected across provider JSON files."
           else
-            git commit -m "Automated update: Refreshed channels.json"
+            git commit -m "Automated update: Refreshed channel lists"
             git push
           fi
