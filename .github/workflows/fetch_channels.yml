@@ -26,8 +26,15 @@ jobs:
       - name: Fetch and Transform Data with jq
         run: |
           # Fetch Astro
-          curl -s "https://contenthub-api.eco.astro.com.my/api/v2/search-linear?channelGuide=true&platform=acm&channelOrderBy=stbNumber,asc" | jq '[.response.channels.data[] | {channel_name: .title, channel_number: .stbNumber, category: .category}]' > astro_channels.json
-
+          curl -s "https://contenthub-api.eco.astro.com.my/api/v2/search-linear?channelGuide=true&platform=acm&channelOrderBy=stbNumber,asc" | jq '[
+            .response.channels.data[]? | {
+              channel_name: .title,
+              channel_number: (.stbNumber | tonumber?),
+              category: .category,
+              genre: (.genreKey // []),
+              language: (.languageKey // [])
+            }
+          ]' > astro_channels.json
           # Fetch Unifi
           curl -s "https://unifi.com.my/tv/jsonapi/node/channels_list_item?page[limit]=500" | jq '[.data[] | {provider: "Unifi", channel_name: .attributes.title, channel_number: .attributes.field_channel_number}]' > unifitv_channels.json
         
