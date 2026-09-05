@@ -165,7 +165,7 @@
     ]
   },
   {
-    "channel_name": "TV Okey HD",
+    "channel_name": "Okey",
     "channel_number": 146,
     "category": "Variety Entertainment",
     "genre": [
@@ -1377,17 +1377,6 @@
   {
     "channel_name": "Astro Badminton",
     "channel_number": 815,
-    "category": "Sports",
-    "genre": [
-      "sports"
-    ],
-    "language": [
-      "international"
-    ]
-  },
-  {
-    "channel_name": "Astro Badminton 2",
-    "channel_number": 816,
     "category": "Sports",
     "genre": [
       "sports"
