@@ -1243,6 +1243,39 @@
     ]
   },
   {
+    "channel_name": "ASG2",
+    "channel_number": 796,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
+  },
+  {
+    "channel_name": "ASG3",
+    "channel_number": 797,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
+  },
+  {
+    "channel_name": "ASG4",
+    "channel_number": 798,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
+  },
+  {
     "channel_name": "Astro Arena",
     "channel_number": 801,
     "category": "Sports",
