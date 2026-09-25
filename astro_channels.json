@@ -539,6 +539,17 @@
     ]
   },
   {
+    "channel_name": "U Panda TV",
+    "channel_number": 337,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
+  },
+  {
     "channel_name": "KBS World HD",
     "channel_number": 392,
     "category": "Special Interest",
