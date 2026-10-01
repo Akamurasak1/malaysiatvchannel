@@ -154,6 +154,17 @@
     ]
   },
   {
+    "channel_name": "Pokémon",
+    "channel_number": 121,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
+  },
+  {
     "channel_name": "TV Sarawak",
     "channel_number": 122,
     "category": "Variety Entertainment",
