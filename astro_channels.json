@@ -1188,6 +1188,17 @@
     ]
   },
   {
+    "channel_name": "HITS NOW",
+    "channel_number": 702,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "international"
+    ]
+  },
+  {
     "channel_name": "Lifetime HD",
     "channel_number": 703,
     "category": "Variety Entertainment",
@@ -1408,7 +1419,7 @@
     ]
   },
   {
-    "channel_name": "Astro Sports Plus 2",
+    "channel_name": "Astro Tennis 2",
     "channel_number": 818,
     "category": "Sports",
     "genre": [
