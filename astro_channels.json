@@ -319,6 +319,17 @@
     ]
   },
   {
+    "channel_name": "Sony Vizha",
+    "channel_number": 220,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
+  },
+  {
     "channel_name": "Star Vijay HD",
     "channel_number": 221,
     "category": "Variety Entertainment",
@@ -1328,6 +1339,17 @@
     ],
     "language": [
       "malay"
+    ]
+  },
+  {
+    "channel_name": "Astro Premier League 4",
+    "channel_number": 808,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
     ]
   },
   {
