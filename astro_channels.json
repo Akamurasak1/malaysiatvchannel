@@ -1353,6 +1353,17 @@
     ]
   },
   {
+    "channel_name": "Astro Premier League 5",
+    "channel_number": 809,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
+  },
+  {
     "channel_name": "Astro Grandstand",
     "channel_number": 810,
     "category": "Sports",
@@ -1410,17 +1421,6 @@
   {
     "channel_name": "Astro Badminton",
     "channel_number": 815,
-    "category": "Sports",
-    "genre": [
-      "sports"
-    ],
-    "language": [
-      "international"
-    ]
-  },
-  {
-    "channel_name": "Astro Badminton 2",
-    "channel_number": 816,
     "category": "Sports",
     "genre": [
       "sports"
@@ -1531,6 +1531,17 @@
   {
     "channel_name": "Premier Sports",
     "channel_number": 833,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
+  },
+  {
+    "channel_name": "Astro Cricket Plus",
+    "channel_number": 835,
     "category": "Sports",
     "genre": [
       "sports"
