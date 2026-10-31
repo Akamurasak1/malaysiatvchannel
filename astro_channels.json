@@ -1496,6 +1496,17 @@
     ]
   },
   {
+    "channel_name": "Astro Sports Plus 2",
+    "channel_number": 823,
+    "category": "Sports",
+    "genre": [
+      "sports"
+    ],
+    "language": [
+      "international"
+    ]
+  },
+  {
     "channel_name": "W-Sport",
     "channel_number": 826,
     "category": "Sports",
