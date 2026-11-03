@@ -1,5 +1,93 @@
 [
   {
+    "channel_name": "Astro Shaw",
+    "channel_number": 0,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
+  },
+  {
+    "channel_name": "Rising Joy",
+    "channel_number": 0,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
+  },
+  {
+    "channel_name": "VOD Exclusive",
+    "channel_number": 0,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
+  },
+  {
+    "channel_name": "BollyOne HD",
+    "channel_number": 0,
+    "category": "Movies",
+    "genre": [
+      "movies"
+    ],
+    "language": [
+      "indian"
+    ]
+  },
+  {
+    "channel_name": "Jetsen",
+    "channel_number": 0,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "others"
+    ]
+  },
+  {
+    "channel_name": "HBO Max",
+    "channel_number": 0,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "malay"
+    ]
+  },
+  {
+    "channel_name": "ZEE5",
+    "channel_number": 0,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
+  },
+  {
+    "channel_name": "Ungal Thirai",
+    "channel_number": 0,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "indian"
+    ]
+  },
+  {
     "channel_name": "Astro30",
     "channel_number": 100,
     "category": "Variety Entertainment",
@@ -85,6 +173,17 @@
     ],
     "language": [
       "malay"
+    ]
+  },
+  {
+    "channel_name": "M4P",
+    "channel_number": 111,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "others"
     ]
   },
   {
@@ -379,6 +478,17 @@
     "category": "Variety Entertainment",
     "genre": [
       "variety"
+    ],
+    "language": [
+      "chinese"
+    ]
+  },
+  {
+    "channel_name": "Astro Xiao Tai Yang HD",
+    "channel_number": 304,
+    "category": "Kids",
+    "genre": [
+      "kids"
     ],
     "language": [
       "chinese"
@@ -1408,17 +1518,6 @@
     ]
   },
   {
-    "channel_name": "Astro Tennis 2",
-    "channel_number": 818,
-    "category": "Sports",
-    "genre": [
-      "sports"
-    ],
-    "language": [
-      "international"
-    ]
-  },
-  {
     "channel_name": "Astro Tennis",
     "channel_number": 819,
     "category": "Sports",
@@ -1790,6 +1889,17 @@
     ],
     "language": [
       "international"
+    ]
+  },
+  {
+    "channel_name": "TEST 996",
+    "channel_number": 996,
+    "category": "Variety Entertainment",
+    "genre": [
+      "variety"
+    ],
+    "language": [
+      "chinese"
     ]
   }
 ]
