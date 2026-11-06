@@ -1912,27 +1912,5 @@
     "language": [
       "international"
     ]
-  },
-  {
-    "channel_name": "TEST 995",
-    "channel_number": 995,
-    "category": "Variety Entertainment",
-    "genre": [
-      "variety"
-    ],
-    "language": [
-      "chinese"
-    ]
-  },
-  {
-    "channel_name": "TEST 996",
-    "channel_number": 996,
-    "category": "Variety Entertainment",
-    "genre": [
-      "variety"
-    ],
-    "language": [
-      "chinese"
-    ]
   }
 ]
